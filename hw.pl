@@ -3,7 +3,6 @@
 # hw.pl - Hatena Diary Writer.
 #
 # Copyright (C) 2004,2005,2007 by Hiroshi Yuki.
-# <hyuki@hyuki.com>
 # http://www.hyuki.com/techinfo/hatena_diary_writer.html
 #
 # Special thanks to:
